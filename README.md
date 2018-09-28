@@ -1,1 +1,2 @@
-# neighbor-quest
+# NeighborhoodQuest
+Mobile Computing final project
